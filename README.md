@@ -21,11 +21,11 @@ Frameworks etudiés:
 
 🚀 Je suis constamment à la recherche de nouveaux défis et de nouveaux projets excitants. N'hésitez pas à explorer mes projets GitHub et à me contacter si vous avez des questions ou si vous êtes intéressé par une collaboration.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thomasdelecluse&show_icons=true&theme=transparent)
-
 Cliquer sur ce bouton pour acceder a mon linkdin :
 
 [![LinkedIn](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/linkedin.svg)](https://www.linkedin.com/in/thomas-delecluse/)
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thomasdelecluse&show_icons=true&theme=transparent)
 
 
