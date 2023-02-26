@@ -2,7 +2,8 @@
 
 👨Je suis un développeur passionné avec une solide expérience en développement web et en programmation orientée objet. Au fil des années, j'ai travaillé sur plusieurs projets dans différents langages de programmation, notamment en JavaScript avec le framework Angular 🅰️, en PHP 🐘, en Java ☕, en C# 🔢 et en JEE ☕, en reactNative.
 
-![Java](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/java.svg)
+![Java](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/java.svg)![PHP](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg
+
 
 
 🔸 JavaScript avec Angular :
